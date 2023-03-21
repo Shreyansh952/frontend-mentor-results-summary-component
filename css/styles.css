@@ -107,7 +107,7 @@ span.primo {
     border-radius: 100px;
 }
 
-@media (min-width:576px) {
+@media (min-width:648px) {
     main {
         min-height: 100vh;
         display: grid;
